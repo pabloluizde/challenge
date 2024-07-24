@@ -17,7 +17,7 @@ class _WebViewPageState extends State<WebViewPage> {
     super.initState();
     controller = WebViewController()
       ..setJavaScriptMode(JavaScriptMode.unrestricted)
-      ..loadRequest(Uri.parse('https://pub.dev/packages/webview_flutter'));
+      ..loadRequest(Uri.parse('https://www.tokiomarine.com.br/'));
   }
 
   @override
