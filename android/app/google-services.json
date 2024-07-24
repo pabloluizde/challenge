@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "304369704243",
+    "project_id": "challenge-3489f",
+    "storage_bucket": "challenge-3489f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304369704243:android:573c670f67e04c8f69b246",
+        "android_client_info": {
+          "package_name": "com.example.tokio_marine_challenge"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHz8aQJMeCWwJAK0BcJLZxdC2FcQlVrQE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
